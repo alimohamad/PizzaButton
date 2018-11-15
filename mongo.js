@@ -1,7 +1,7 @@
 // THIS IS PROMISELESS
 
 var MongoClient = require('mongodb').MongoClient, assert = require('assert');
-var url = 'mongodb://sara:123456@ds255797.mlab.com:55797/pizza-button-db';
+var url = 'lets not put api keys on public github repos!';
 const twilio = require('twilio');
 const session = require('express-session');
 const MessagingResponse = require('twilio').twiml.MessagingResponse;
